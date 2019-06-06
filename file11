@@ -8,8 +8,5 @@
 <body>
 <h1 style="color:blue;font-style:italic"> Ky eshte heading 1</h1>
 
-<h2 style="color:orange;font-style:italic;text-align:center"> Ky eshte heading 2</h2>
-
-
 </body>
 </html>
